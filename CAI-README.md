@@ -39,7 +39,7 @@ opens a PR (clean or with conflicts).
 ```
 penpot/penpot (upstream)
   ↓ rebased on cadence via cai-upstream-track.yml
-Cocoon-AI/penpot (this repo — base fork)
+Cocoon-AI/foreign-penpot (this repo — base fork)
   ↓ rebased on cadence via cai-upstream-track.yml in the tenant fork
 Cocoon-AI/cai-penpot (Cocoon tenant fork — the deploy target)
 ```

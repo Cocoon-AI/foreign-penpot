@@ -157,5 +157,5 @@ jobs:
             BASE=cai-penpot-upstream:build
           push: true
           tags: |
-            ghcr.io/cocoon-ai/penpot:${{ steps.tag.outputs.tag }}
-            ghcr.io/cocoon-ai/penpot:latest
+            ghcr.io/cocoon-ai/foreign-penpot:${{ steps.tag.outputs.tag }}
+            ghcr.io/cocoon-ai/foreign-penpot:latest
